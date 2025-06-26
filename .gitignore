@@ -193,3 +193,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Virtual environment
+myenv/
+
+# Large files and binaries
+textbook/comprehensive-clinical-nephrology.pdf
+myenv/Lib/site-packages/chromadb_rust_bindings/chromadb_rust_bindings.pyd
+myenv/Scripts/uv.exe
+myenv/Lib/site-packages/torch/lib/dnnl.lib
+myenv/Lib/site-packages/torch/lib/torch_cpu.dll
+
+# Logs
+backend/logs/
