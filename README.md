@@ -13,6 +13,9 @@ This project is a multi-agent, Retrieval-Augmented Generation (RAG) enabled neph
 - **Session Handling:** Each user session tracks the current patient and conversation context for continuity.
 - **Logging:** All user interactions, agent handoffs, and retrieval attempts/results are logged with timestamps for audit and debugging.
 
+## Workflow
+![Screenshot 2025-06-27 111721](https://github.com/user-attachments/assets/a7eebb28-b599-40ae-8256-1a2ec64d5fe9)
+
 ## How It Works
 1. **Textbook Processing:**
    - The PDF is processed to extract clean, clinical text (skipping TOC, references, etc.).
