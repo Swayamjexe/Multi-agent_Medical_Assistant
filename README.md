@@ -55,4 +55,4 @@ This project is a multi-agent, Retrieval-Augmented Generation (RAG) enabled neph
 ## Notes
 - All logs are saved in `backend/logs/nephro_assistant.log`.
 - Sessions are managed in-memory for POC; extend as needed for production.
-- Web search requires a valid SerpAPI API key in your environment variables. 
+- Web search requires a valid SerpAPI API key in your environment variables.
